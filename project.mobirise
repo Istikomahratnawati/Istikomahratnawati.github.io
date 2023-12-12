@@ -39,7 +39,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "Istikomahratnawati's Personal Page",
+    "name": "Istikomah Ratnawati's Personal Page",
     "versionFirst": "5.6.0",
     "siteFonts": [
       {
@@ -53,7 +53,7 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/minimalist-initial-logo-128x128_2.png",
-    "mbrsiteDomain": "Istikomahratnawati",
+    "mbrsiteDomain": "nrxvl7znyc",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
